@@ -1,0 +1,23 @@
+[
+
+  {
+    "id":101,
+    "fname":"Yashi",
+    "lname":"Gupta",
+    "location":"Ghaziabad"
+  },
+
+  {
+    "id":102,
+    "fname":"Saksham",
+    "lname":"Bansal",
+    "location":"Noida"
+  },
+
+  {
+    "id":103,
+    "fname":"Shubham",
+    "lname":"Rawat",
+    "location":"Delhi"
+  }
+]
